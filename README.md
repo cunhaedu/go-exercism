@@ -17,6 +17,7 @@ Repository to manage my exercises solutions from the GO track by [Exercism](http
 * [Comparison](#comparison)
 * [String Formatting](#string-formatting)
 * [Packages](#packages)
+* [Conditionals Switch](#conditionals-switch)
 
 ### Basics
 - [Gopher's Gorgeous Lasagna](./lasagna/)
@@ -50,3 +51,6 @@ Repository to manage my exercises solutions from the GO track by [Exercism](http
 
 ### Packages
 - [Party Robot](./party-robot/)
+
+### Conditionals Switch
+- [Blackjack](./blackjack/)
