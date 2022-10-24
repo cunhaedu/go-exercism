@@ -20,6 +20,8 @@ Repository to manage my exercises solutions from the GO track by [Exercism](http
 * [Conditionals Switch](#conditionals-switch)
 * [Structs](#structs)
 
+* [Not Categorized](#not-categorized)
+
 ### Basics
 - [Gopher's Gorgeous Lasagna](./lasagna/)
 
@@ -58,3 +60,7 @@ Repository to manage my exercises solutions from the GO track by [Exercism](http
 
 ### Structs
 - [Need For Speed](./need-for-speed/)
+
+### Not Categorized
+- [Leap](./leap/)
+- [Two Fer](./two-fer/)
